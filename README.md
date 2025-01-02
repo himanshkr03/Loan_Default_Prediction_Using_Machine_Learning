@@ -1,4 +1,4 @@
-# Loan Default Prediction
+# Loan Default Prediction Using Machine Learning(Regression)
 
 ## Project Overview
 
